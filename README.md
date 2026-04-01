@@ -86,6 +86,19 @@ It does not include a full implementation.
 - JavaScript (planned)
 ---
 
+## 👥Project Partners
+
+This project was a collaborative effort with the following team members:
+- Yamato Eguchi
+- Jong Kim
+- Desire Hernandez
+- Ethan Jones
+- Irvin Rafael
+- Saul Ruiz
+- Cole Eastlund
+
+---
+
 ## 📬 Contact
 
 Feel free to reach out or connect with me!
